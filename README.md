@@ -79,6 +79,7 @@ This is a new era for online space with the capability to build an Autonomous Wo
 
 More details refer to [Landing Cases One Page](demo/practice.md)
 
+---
 ### Questions? Problems? Suggestions?
 
 We are open to any crazy ideas or proposals to the infinite world, please reach out to us via open  [GitHub Issue](https://github.com/ZenfoxLabs/infinity-world/issues) or [email](hello@zenfoxlab.com). 
