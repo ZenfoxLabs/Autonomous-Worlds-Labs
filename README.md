@@ -64,6 +64,8 @@ Virtual Reality tends to bring people to a mixed machine world, acting as an age
 
 This is a new era for online space with the capability to build an Autonomous World for humans and machines. ZenFox Labs keep tracking the progress, and will be devoted to build the protocol and engineering PoC for the whole Infinity Space.
 
+We are open to any crazy ideas or proposals to the infinite world, please reach out to us via open issues or [email](hello@zenfoxlab.com). 
+
 ### Protocol Enablement
 * EIP-game_server
 * Infinity Computing Network Protocol
@@ -77,4 +79,3 @@ This is a new era for online space with the capability to build an Autonomous Wo
 
 More details refer to [Landing Cases One Page](demo/practice.md)
 
-We are open to any crazy ideas or proposals to the infinite world, please reach out to us via open issues or [email](hello@zenfoxlab.com). 
