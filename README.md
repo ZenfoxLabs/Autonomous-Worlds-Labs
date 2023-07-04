@@ -71,7 +71,7 @@ This is a new era for online space with the capability to build an Autonomous Wo
 ### Prototype Building
 * Game AI Agent Model
 * MPC Privacy Protection
-* ZKML 
+* zkGame
 
 ### Awesome Reference
 
