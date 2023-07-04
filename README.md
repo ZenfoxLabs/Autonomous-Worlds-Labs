@@ -13,7 +13,7 @@ Etherum foundation has proposed a related wording to describe the momentum, name
 
 ZenFox Labs outlines the core features of Infinity World as below.
 
-1. Autonomous For Machine to Machine
+1. Autonomous for Machine to Machine
 2. Unstoppable Computing Platform for Jobs Running
 3. Sustainable & Composable Protocol for Participants
 
