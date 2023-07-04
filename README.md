@@ -23,7 +23,7 @@ ZenFox Labs outlines the core features of Infinity World as below.
 
 Above three features still in the high level picture, we go for mapping the target goals to workable techniques, including **advanced AI algorithms, Scalable Smart Contract Platform**, and **VR/MR**. 
 
-![infinity architect](https://github.com/ZenfoxLabs/infinity/blob/main/docs/Screenshot%202023-07-03%20at%202.21.55%20PM.png)
+![infinity architect](./docs/architect.png)
 
 
 ### Advanced AI 
