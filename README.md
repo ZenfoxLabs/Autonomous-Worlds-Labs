@@ -1,11 +1,11 @@
 
 
-# Infinity Worlds Introduction - Lite Edition
+#Infinity Autonomous Worlds - Lite Edition
 
 
 ## Background 
 
-**Infinity World** is a new concept compared with blockchain or decentralized applications, aiming to provide a consistent protocol for emerging innovation.  
+**Infinity Autonomous Worlds** is a new concept compared with blockchain or decentralized applications, aiming to provide a consistent protocol for emerging innovation.  
 
 Etherum foundation has proposed a related wording to describe the momentum, named as  
 
@@ -74,10 +74,6 @@ This is a new era for online space with the capability to build an Autonomous Wo
 * Game AI Agent Model
 * MPC Privacy Protection
 * zkGame
-
-### Communuity Evangelism
-
-More details refer to [Landing Cases One Page](demo/practice.md)
 
 ---
 ### Questions? Problems? Suggestions?
