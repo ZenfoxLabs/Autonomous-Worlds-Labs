@@ -1,6 +1,6 @@
 
 
-# Infinity World Introduction - Lite Edition
+# Infinity Worlds Introduction - Lite Edition
 
 
 ## Background 
