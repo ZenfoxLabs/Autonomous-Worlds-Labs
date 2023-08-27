@@ -1,6 +1,6 @@
 
 
-#Infinity Autonomous Worlds - Lite Edition
+# Infinity Autonomous Worlds - Lite Edition
 
 
 ## Background 
